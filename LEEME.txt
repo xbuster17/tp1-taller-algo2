@@ -1,0 +1,7 @@
+calculadora rpn
+
+compilar:
+$ mkdir build && cd build && cmake .. && make
+
+ejecutar:
+$ ./correrTests
